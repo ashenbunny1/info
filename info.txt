@@ -1,4 +1,4 @@
-#00f|TestTestTest|patreon.com/AshenBunny
-#0ff|TestTestTest|patreon.com/AshenBunny
-#f0f|TestTestTest|patreon.com/AshenBunny
-#ff0|TestTestTest|patreon.com/AshenBunny
+n|TestTestTest|patreon.com/AshenBunny
+y|TestTestTest|patreon.com/AshenBunny
+n|TestTestTest|patreon.com/AshenBunny
+y|TestTestTest|patreon.com/AshenBunny
